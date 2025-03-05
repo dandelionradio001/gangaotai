@@ -1,7 +1,62 @@
 [
   {
     "title": "CCTV-1综合",
-    "code":"CCTV1",
-    "url":"CCTV1"
+    "code": "CCTV1",
+    "url": "CCTV1",
+    "icon": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"
+  },
+  {
+    "title": "CCTV-2财经",
+    "code": "CCTV2",
+    "url": "CCTV2",
+    "icon": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png"
+  },
+  {
+    "title": "CCTV-3综艺",
+    "code": "CCTV3",
+    "url": "CCTV3",
+    "icon": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png"
+  },
+  {
+    "title": "CCTV-4中文国际",
+    "code": "CCTV4",
+    "url": "CCTV4",
+    "icon": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png"
+  },
+  {
+    "title": "CCTV-5体育",
+    "code": "CCTV5+",
+    "url": "CCTV5+",
+    "icon": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png"
+  },
+  {
+    "title": "CCTV-6电影",
+    "code": "CCTV6",
+    "url": "CCTV6",
+    "icon": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png"
+  },
+  {
+    "title": "CCTV-7国防军事",
+    "code": "CCTV7",
+    "url": "CCTV7",
+    "icon": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png"
+  },
+  {
+    "title": "CCTV-8电视剧",
+    "code": "CCTV8",
+    "url": "CCTV8",
+    "icon": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png"
+  },
+  {
+    "title": "CCTV-9纪录",
+    "code": "CCTV9",
+    "url": "CCTV9",
+    "icon": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png"
+  },
+  {
+    "title": "CCTV-10科教",
+    "code": "CCTV10",
+    "url": "CCTV10",
+    "icon": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png"
   }
 ]
