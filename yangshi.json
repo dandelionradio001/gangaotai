@@ -58,5 +58,65 @@
     "code": "CCTV10",
     "url": "CCTV10",
     "icon": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png"
+  },
+  {
+    "title": "CCTV-11戏曲",
+    "code": "CCTV11",
+    "url": "CCTV11",
+    "icon": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png"
+  },
+  {
+    "title": "CCTV-12社会与法",
+    "code": "CCTV12",
+    "url": "CCTV12",
+    "icon": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png"
+  },
+  {
+    "title": "CCTV-13新闻",
+    "code": "CCTV13",
+    "url": "CCTV13",
+    "icon": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png"
+  },
+  {
+    "title": "CCTV-14少儿",
+    "code": "CCTV14",
+    "url": "CCTV14",
+    "icon": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png"
+  },
+  {
+    "title": "CCTV-15音乐",
+    "code": "CCTV15",
+    "url": "CCTV15",
+    "icon": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png"
+  },
+  {
+    "title": "CCTV-17农村农业",
+    "code": "CCTV17",
+    "url": "CCTV17",
+    "icon": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png"
+  },
+  {
+    "title": "CGTN",
+    "code": "CGTN",
+    "url": "CGTN",
+    "icon": "http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png"
+  },
+  {
+    "title": "CCTV-4欧洲",
+    "code": "CCTV4欧洲",
+    "url": "CCTV4欧洲",
+    "icon": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV4EUO.png"
+  },
+  {
+    "title": "CCTV-4欧洲",
+    "code": "CCTV4EUO",
+    "url": "CCTV4EUO",
+    "icon": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV4EUO.png"
+  },
+  {
+    "title": "CCTV-4美洲",
+    "code": "CCTV4AME",
+    "url": "CCTV4AME",
+    "icon": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV4AME.png"
   }
 ]
