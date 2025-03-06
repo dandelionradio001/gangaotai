@@ -2,6 +2,31 @@
   {
     "title": "湖南卫视",
     "code": "湖南卫视",
-    "url":"湖南卫视"
+    "url":"湖南卫视",
+    "icon":"http://epg.51zmt.top:8000/tb1/ws/hunan.png"
+  },
+  {
+    "title": "浙江卫视",
+    "code": "浙江卫视",
+    "url":"浙江卫视",
+    "icon":"http://epg.51zmt.top:8000/tb1/ws/zhejiang.png"
+  },
+  {
+    "title": "江苏卫视",
+    "code": "江苏卫视",
+    "url":"江苏卫视",
+    "icon":"http://epg.51zmt.top:8000/tb1/ws/jiangsu.png"
+  },
+  {
+    "title": "北京卫视",
+    "code": "北京卫视",
+    "url":"北京卫视",
+    "icon":"http://epg.51zmt.top:8000/tb1/ws/beijing.png"
+  },
+  {
+    "title": "东方卫视",
+    "code": "东方卫视",
+    "url":"东方卫视",
+    "icon":"http://epg.51zmt.top:8000/tb1/ws/dongfang.png"
   }
 ]
