@@ -1,1 +1,18 @@
-
+[{
+    "title": "TVB翡翠台",
+    "code": "翡翠台",
+    "url": "翡翠台",
+    "icon": "http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png"
+  },
+  {
+    "title": "TVB明珠台",
+    "code": "明珠台",
+    "url": "明珠台",
+    "icon": "http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png"
+  },
+  {
+    "title": "TVB经典台",
+    "code": "TVB经典台",
+    "url": "TVB经典台",
+    "icon": "http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png"
+  }]
