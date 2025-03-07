@@ -2,529 +2,529 @@
         {
             "title": "优漫卡通",
             "code": "优漫卡通",
-            "url": "http://192.168.2.1:1111/115.ts",
+            "url": "优漫卡通",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/youman.png"
         },
         {
             "title": "GTV游戏竞技",
             "code": "GTV游戏竞技",
-            "url": "http://192.168.2.1:1111/116.ts",
+            "url": "GTV游戏竞技",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/gtv_youxi.png"
         },
         {
             "title": "新动漫",
             "code": "新动漫",
-            "url": "http://192.168.2.1:1111/117.ts",
+            "url": "新动漫",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/xindongman.png"
         },
         {
             "title": "山东齐鲁",
             "code": "山东齐鲁",
-            "url": "http://192.168.2.1:1111/118.ts",
+            "url": "山东齐鲁",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/sd_qilu.png"
         },
         {
             "title": "山东体育",
             "code": "山东体育",
-            "url": "http://192.168.2.1:1111/119.ts",
+            "url": "山东体育",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/sd_tiyu.png"
         },
         {
             "title": "山东农科",
             "code": "山东农科",
-            "url": "http://192.168.2.1:1111/120.ts",
+            "url": "山东农科",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/sd_nongke.png"
         },
         {
             "title": "山东公共",
             "code": "山东公共",
-            "url": "http://192.168.2.1:1111/121.ts",
+            "url": "山东公共",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/sd_gonggong.png"
         },
         {
             "title": "山东少儿",
             "code": "山东少儿",
-            "url": "http://192.168.2.1:1111/122.ts",
+            "url": "山东少儿",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/sd_shaoer.png"
         },
         {
             "title": "山东影视",
             "code": "山东影视",
-            "url": "http://192.168.2.1:1111/123.ts",
+            "url": "山东影视",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/sd_yingshi.png"
         },
         {
             "title": "山东综艺",
             "code": "山东综艺",
-            "url": "http://192.168.2.1:1111/124.ts",
+            "url": "山东综艺",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/sd_zongyi.png"
         },
         {
             "title": "山东生活",
             "code": "山东生活",
-            "url": "http://192.168.2.1:1111/125.ts",
+            "url": "山东生活",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/sd_shenghuo.png"
         },
         {
             "title": "环宇电影",
             "code": "环宇电影",
-            "url": "http://192.168.2.1:1111/126.ts",
+            "url": "环宇电影",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/sd_huanyudianying.jpg"
         },
         {
             "title": "湖北综合频道",
             "code": "湖北综合频道",
-            "url": "http://192.168.2.1:1111/127.ts",
+            "url": "湖北综合频道",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/HUBEI2.png"
         },
         {
             "title": "湖北影视频道",
             "code": "湖北影视频道",
-            "url": "http://192.168.2.1:1111/128.ts",
+            "url": "湖北影视频道",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/HUBEI3.png"
         },
         {
             "title": "湖北教育频道",
             "code": "湖北教育频道",
-            "url": "http://192.168.2.1:1111/129.ts",
+            "url": "湖北教育频道",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/HUBEI4.png"
         },
         {
             "title": "湖北生活频道",
             "code": "湖北生活频道",
-            "url": "http://192.168.2.1:1111/130.ts",
+            "url": "湖北生活频道",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/HUBEI5.png"
         },
         {
             "title": "湖北公共·新闻",
             "code": "湖北公共·新闻",
-            "url": "http://192.168.2.1:1111/131.ts",
+            "url": "湖北公共·新闻",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/HUBEI7.png"
         },
         {
             "title": "湖北经济频道",
             "code": "湖北经济频道",
-            "url": "http://192.168.2.1:1111/132.ts",
+            "url": "湖北经济频道",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/HUBEI8.png"
         },
         {
             "title": "湖北垄上频道",
             "code": "湖北垄上频道",
-            "url": "http://192.168.2.1:1111/133.ts",
+            "url": "湖北垄上频道",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/HBLS.png"
         },
         {
             "title": "武汉新闻综合频道",
             "code": "武汉新闻综合频道",
-            "url": "http://192.168.2.1:1111/134.ts",
+            "url": "武汉新闻综合频道",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/WHTV1.png"
         },
         {
             "title": "武汉电视剧频道",
             "code": "武汉电视剧频道",
-            "url": "http://192.168.2.1:1111/135.ts",
+            "url": "武汉电视剧频道",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/WHTV2.png"
         },
         {
             "title": "武汉科技生活频道",
             "code": "武汉科技生活频道",
-            "url": "http://192.168.2.1:1111/136.ts",
+            "url": "武汉科技生活频道",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/WHTV3.png"
         },
         {
             "title": "武汉经济频道",
             "code": "武汉经济频道",
-            "url": "http://192.168.2.1:1111/137.ts",
+            "url": "武汉经济频道",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/WHTV4.png"
         },
         {
             "title": "武汉文体频道",
             "code": "武汉文体频道",
-            "url": "http://192.168.2.1:1111/138.ts",
+            "url": "武汉文体频道",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/WHTV5.png"
         },
         {
             "title": "武汉外语频道",
             "code": "武汉外语频道",
-            "url": "http://192.168.2.1:1111/139.ts",
+            "url": "武汉外语频道",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/WHTV6.png"
         },
         {
             "title": "武汉少儿频道",
             "code": "武汉少儿频道",
-            "url": "http://192.168.2.1:1111/140.ts",
+            "url": "武汉少儿频道",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/WHTV7.png"
         },
         {
             "title": "武汉教育电视台",
             "code": "武汉教育电视台",
-            "url": "http://192.168.2.1:1111/141.ts",
+            "url": "武汉教育电视台",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/WETV.png"
         },
         {
             "title": "北京冬奥纪实",
             "code": "北京纪实",
-            "url": "http://192.168.2.1:1111/142.ts",
+            "url": "北京纪实",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png"
         },
         {
             "title": "BTV文艺",
             "code": "BTV文艺",
-            "url": "http://192.168.2.1:1111/143.ts",
+            "url": "BTV文艺",
             "icon": "http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png"
         },
         {
             "title": "BTV科教",
             "code": "BTV科教",
-            "url": "http://192.168.2.1:1111/144.ts",
+            "url": "BTV科教",
             "icon": "http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png"
         },
         {
             "title": "BTV影视",
             "code": "BTV影视",
-            "url": "http://192.168.2.1:1111/145.ts",
+            "url": "BTV影视",
             "icon": "http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png"
         },
         {
             "title": "BTV财经",
             "code": "BTV财经",
-            "url": "http://192.168.2.1:1111/146.ts",
+            "url": "BTV财经",
             "icon": "http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png"
         },
         {
             "title": "BTV体育休闲",
             "code": "BTV体育",
-            "url": "http://192.168.2.1:1111/147.ts",
+            "url": "BTV体育",
             "icon": "http://epg.51zmt.top:8000/tb1/sheng/BTV体育.png"
         },
         {
             "title": "BTV生活",
             "code": "BTV生活",
-            "url": "http://192.168.2.1:1111/148.ts",
+            "url": "BTV生活",
             "icon": "http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png"
         },
         {
             "title": "BTV新闻",
             "code": "BTV新闻",
-            "url": "http://192.168.2.1:1111/149.ts",
+            "url": "BTV新闻",
             "icon": "http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png"
         },
         {
             "title": "DOX雅趣",
             "code": "DOX雅趣",
-            "url": "http://192.168.2.1:1111/150.ts",
+            "url": "DOX雅趣",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/DOX_YAQU.png"
         },
         {
             "title": "七彩戏剧",
             "code": "七彩戏剧",
-            "url": "http://192.168.2.1:1111/151.ts",
+            "url": "七彩戏剧",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png"
         },
         {
             "title": "新视觉",
             "code": "新视觉",
-            "url": "http://192.168.2.1:1111/152.ts",
+            "url": "新视觉",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/xinshijue.png"
         },
         {
             "title": "劲爆体育",
             "code": "劲爆体育",
-            "url": "http://192.168.2.1:1111/153.ts",
+            "url": "劲爆体育",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg"
         },
         {
             "title": "DOX英伦",
             "code": "DOX英伦",
-            "url": "http://192.168.2.1:1111/154.ts",
+            "url": "DOX英伦",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/dox_yinglun.png"
         },
         {
             "title": "DOX剧场",
             "code": "DOX剧场",
-            "url": "http://192.168.2.1:1111/155.ts",
+            "url": "DOX剧场",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/dox_juchang.png"
         },
         {
             "title": "乐游",
             "code": "全纪实",
-            "url": "http://192.168.2.1:1111/156.ts",
+            "url": "全纪实",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/quanjishi.png"
         },
         {
             "title": "欢笑剧场",
             "code": "欢笑剧场",
-            "url": "http://192.168.2.1:1111/157.ts",
+            "url": "欢笑剧场",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/huanxiao.png"
         },
         {
             "title": "幸福彩",
             "code": "幸福彩",
-            "url": "http://192.168.2.1:1111/158.ts",
+            "url": "幸福彩",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/xingfucai.png"
         },
         {
             "title": "生活时尚",
             "code": "生活时尚",
-            "url": "http://192.168.2.1:1111/159.ts",
+            "url": "生活时尚",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png"
         },
         {
             "title": "游戏风云",
             "code": "游戏风云",
-            "url": "http://192.168.2.1:1111/160.ts",
+            "url": "游戏风云",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png"
         },
         {
             "title": "上视新闻频道",
             "code": "上视新闻频道",
-            "url": "http://192.168.2.1:1111/161.ts",
+            "url": "上视新闻频道",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png"
         },
         {
             "title": "第一财经",
             "code": "第一财经",
-            "url": "http://192.168.2.1:1111/162.ts",
+            "url": "第一财经",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png"
         },
         {
             "title": "东方影视",
             "code": "东方影视",
-            "url": "http://192.168.2.1:1111/163.ts",
+            "url": "东方影视",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png"
         },
         {
             "title": "五星体育频道",
             "code": "五星体育频道",
-            "url": "http://192.168.2.1:1111/164.ts",
+            "url": "五星体育频道",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png"
         },
         {
             "title": "上海纪实人文",
             "code": "上海纪实",
-            "url": "http://192.168.2.1:1111/165.ts",
+            "url": "上海纪实",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png"
         },
         {
             "title": "上海都市频道",
             "code": "上海都市频道",
-            "url": "http://192.168.2.1:1111/166.ts",
+            "url": "上海都市频道",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg"
         },
         {
             "title": "中国交通频道",
             "code": "中国交通频道",
-            "url": "http://192.168.2.1:1111/167.ts",
+            "url": "中国交通频道",
             "icon": "http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png"
         },
         {
             "title": "金鹰纪实",
             "code": "金鹰纪实",
-            "url": "http://192.168.2.1:1111/168.ts",
+            "url": "金鹰纪实",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png"
         },
         {
             "title": "四川文化旅游",
             "code": "SCTV2",
-            "url": "http://192.168.2.1:1111/169.ts",
+            "url": "SCTV2",
             "icon": "http://epg.51zmt.top:8000/tb1/sheng/sctv2.png"
         },
         {
             "title": "四川经济",
             "code": "SCTV3",
-            "url": "http://192.168.2.1:1111/170.ts",
+            "url": "SCTV3",
             "icon": "http://epg.51zmt.top:8000/tb1/sheng/sctv3.png"
         },
         {
             "title": "四川新闻",
             "code": "SCTV4",
-            "url": "http://192.168.2.1:1111/171.ts",
+            "url": "SCTV4",
             "icon": "http://epg.51zmt.top:8000/tb1/sheng/sctv4.png"
         },
         {
             "title": "四川影视文艺频道",
             "code": "SCTV5",
-            "url": "http://192.168.2.1:1111/172.ts",
+            "url": "SCTV5",
             "icon": "http://epg.51zmt.top:8000/tb1/sheng/sctv5.png"
         },
         {
             "title": "四川妇女儿童频道",
             "code": "SCTV7",
-            "url": "http://192.168.2.1:1111/173.ts",
+            "url": "SCTV7",
             "icon": "http://epg.51zmt.top:8000/tb1/sheng/sctv7.png"
         },
         {
             "title": "峨嵋电影频道",
             "code": "峨嵋电影",
-            "url": "http://192.168.2.1:1111/174.ts",
+            "url": "峨嵋电影",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/emeidianying.png"
         },
         {
             "title": "四川公共频道",
             "code": "SCTV9",
-            "url": "http://192.168.2.1:1111/175.ts",
+            "url": "SCTV9",
             "icon": "http://epg.51zmt.top:8000/tb1/sheng/sctv9.png"
         },
         {
             "title": "四川科教频道",
             "code": "SCTV8",
-            "url": "http://192.168.2.1:1111/176.ts",
+            "url": "SCTV8",
             "icon": "http://epg.51zmt.top:8000/tb1/sheng/sctv8.png"
         },
         {
             "title": "成都新闻综合频道",
             "code": "CDTV1",
-            "url": "http://192.168.2.1:1111/177.ts",
+            "url": "CDTV1",
             "icon": "http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png"
         },
         {
             "title": "成都经济资讯频道",
             "code": "CDTV2",
-            "url": "http://192.168.2.1:1111/178.ts",
+            "url": "CDTV2",
             "icon": "http://epg.51zmt.top:8000/tb1/sheng/cdtv2.png"
         },
         {
             "title": "成都都市生活频道",
             "code": "CDTV3",
-            "url": "http://192.168.2.1:1111/179.ts",
+            "url": "CDTV3",
             "icon": "http://epg.51zmt.top:8000/tb1/sheng/cdtv3.png"
         },
         {
             "title": "成都影视文艺频道",
             "code": "CDTV4",
-            "url": "http://192.168.2.1:1111/180.ts",
+            "url": "CDTV4",
             "icon": "http://epg.51zmt.top:8000/tb1/sheng/cdtv4.png"
         },
         {
             "title": "成都公共频道",
             "code": "CDTV5",
-            "url": "http://192.168.2.1:1111/181.ts",
+            "url": "CDTV5",
             "icon": "http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png"
         },
         {
             "title": "成都少儿频道",
             "code": "CDTV6",
-            "url": "http://192.168.2.1:1111/182.ts",
+            "url": "CDTV6",
             "icon": "http://epg.51zmt.top:8000/tb1/sheng/cdtv6.png"
         },
         {
             "title": "辽宁都市",
             "code": "辽宁都市",
-            "url": "http://192.168.2.1:1111/184.ts",
+            "url": "辽宁都市",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/LNTV2.png"
         },
         {
             "title": "辽宁影视剧",
             "code": "辽宁影视剧",
-            "url": "http://192.168.2.1:1111/185.ts",
+            "url": "辽宁影视剧",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/LNTV3.png"
         },
         {
             "title": "辽宁青少",
             "code": "辽宁青少",
-            "url": "http://192.168.2.1:1111/186.ts",
+            "url": "辽宁青少",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/LNTV5.png"
         },
         {
             "title": "辽宁生活",
             "code": "辽宁生活",
-            "url": "http://192.168.2.1:1111/187.ts",
+            "url": "辽宁生活",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/LNTV6.png"
         },
         {
             "title": "辽宁公共",
             "code": "辽宁公共",
-            "url": "http://192.168.2.1:1111/188.ts",
+            "url": "辽宁公共",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/LNTV7.png"
         },
         {
             "title": "辽宁北方",
             "code": "辽宁北方",
-            "url": "http://192.168.2.1:1111/189.ts",
+            "url": "辽宁北方",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/LNTV8.png"
         },
         {
             "title": "辽宁体育",
             "code": "辽宁体育",
-            "url": "http://192.168.2.1:1111/190.ts",
+            "url": "辽宁体育",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/LNTV-SPORT.png"
         },
         {
             "title": "辽宁经济",
             "code": "辽宁经济",
-            "url": "http://192.168.2.1:1111/191.ts",
+            "url": "辽宁经济",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/LNTV-FINANCE.png"
         },
         {
             "title": "沈阳新闻",
             "code": "沈阳新闻",
-            "url": "http://192.168.2.1:1111/192.ts",
+            "url": "沈阳新闻",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/LNSY1.png"
         },
         {
             "title": "嘉佳卡通",
             "code": "嘉佳卡通",
-            "url": "http://192.168.2.1:1111/193.ts",
+            "url": "嘉佳卡通",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png"
         },
         {
             "title": "广东体育频道",
             "code": "广东体育",
-            "url": "http://192.168.2.1:1111/194.ts",
+            "url": "广东体育",
             "icon": "http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png"
         },
         {
             "title": "广东公共频道",
             "code": "广东公共",
-            "url": "http://192.168.2.1:1111/195.ts",
+            "url": "广东公共",
             "icon": "http://epg.51zmt.top:8000/tb1/sheng/GDTV4.png"
         },
         {
             "title": "珠江频道海外版",
             "code": "珠江海外",
-            "url": "http://192.168.2.1:1111/196.ts",
+            "url": "珠江海外",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/zhujiang.png"
         },
         {
             "title": "广东新闻频道",
             "code": "广东新闻",
-            "url": "http://192.168.2.1:1111/197.ts",
+            "url": "广东新闻",
             "icon": "http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png"
         },
         {
             "title": "广东国际频道",
             "code": "广东国际",
-            "url": "http://192.168.2.1:1111/198.ts",
+            "url": "广东国际",
             "icon": "http://epg.51zmt.top:8000/tb1/sheng/GDTV8.png"
         },
         {
             "title": "珠江频道",
             "code": "珠江频道",
-            "url": "http://192.168.2.1:1111/395.ts",
+            "url": "珠江频道",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/zhujiang.png"
         },
         {
             "title": "广东影视频道",
             "code": "广东影视",
-            "url": "http://192.168.2.1:1111/467.ts",
+            "url": "广东影视",
             "icon": "http://epg.51zmt.top:8000/tb1/sheng/GDTVMOV.png"
         },
         {
             "title": "广东综艺频道",
             "code": "广东综艺",
-            "url": "http://192.168.2.1:1111/468.ts",
+            "url": "广东综艺",
             "icon": "http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png"
         },
         {
             "title": "广东经济科教频道",
             "code": "广东经济",
-            "url": "http://192.168.2.1:1111/469.ts",
+            "url": "广东经济",
             "icon": "http://epg.51zmt.top:8000/tb1/sheng/GDTVECO.png"
         },
         {
             "title": "广东少儿频道",
             "code": "广东少儿",
-            "url": "http://192.168.2.1:1111/470.ts",
+            "url": "广东少儿",
             "icon": "http://epg.51zmt.top:8000/tb1/sheng/GDTVSHAO.png"
         }
     ]
