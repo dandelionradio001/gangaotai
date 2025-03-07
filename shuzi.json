@@ -1,3 +1,416 @@
-[{
-  
-}]
+[
+        {
+            "title": "中国教育1台",
+            "code": "中国教育1台",
+            "url": "http://192.168.2.1:1111/62.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png"
+        },
+        {
+            "title": "中国教育2台",
+            "code": "中国教育2台",
+            "url": "http://192.168.2.1:1111/63.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png"
+        },
+        {
+            "title": "中国教育3台",
+            "code": "中国教育3台",
+            "url": "http://192.168.2.1:1111/64.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png"
+        },
+        {
+            "title": "中国3D电视试验频道",
+            "code": "3D电视试验频道",
+            "url": "http://192.168.2.1:1111/65.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV3D.png"
+        },
+        {
+            "title": "外汇理财",
+            "code": "外汇理财",
+            "url": "http://192.168.2.1:1111/66.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/IPTVEFEL.png"
+        },
+        {
+            "title": "电竞天堂",
+            "code": "电竞天堂",
+            "url": "http://192.168.2.1:1111/67.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/dianjingtiantang.png"
+        },
+        {
+            "title": "IPTV5+",
+            "code": "IPTV5+",
+            "url": "http://192.168.2.1:1111/68.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png"
+        },
+        {
+            "title": "IPTV6+",
+            "code": "IPTV6+",
+            "url": "http://192.168.2.1:1111/69.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/IPTV6+.png"
+        },
+        {
+            "title": "IPTV经典电影",
+            "code": "IPTV经典电影",
+            "url": "http://192.168.2.1:1111/70.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/IPTV经典电影.png"
+        },
+        {
+            "title": "IPTV热播剧场",
+            "code": "IPTV热播剧场",
+            "url": "http://192.168.2.1:1111/71.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/IPTV热播剧场.png"
+        },
+        {
+            "title": "IPTV少儿动画",
+            "code": "IPTV少儿动画",
+            "url": "http://192.168.2.1:1111/72.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/IPTV少儿动画.png"
+        },
+        {
+            "title": "IPTV魅力时尚",
+            "code": "IPTV魅力时尚",
+            "url": "http://192.168.2.1:1111/73.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/IPTV魅力时尚.png"
+        },
+        {
+            "title": "CCTV4K",
+            "code": "CCTV4K",
+            "url": "http://192.168.2.1:1111/74.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png"
+        },
+        {
+            "title": "中数风云足球",
+            "code": "风云足球",
+            "url": "http://192.168.2.1:1111/183.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png"
+        },
+        {
+            "title": "华数求索科学",
+            "code": "求索科学",
+            "url": "http://192.168.2.1:1111/336.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/QSKX.png"
+        },
+        {
+            "title": "CHC高清电影",
+            "code": "CHC高清电影",
+            "url": "http://192.168.2.1:1111/337.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg"
+        },
+        {
+            "title": "华数求索动物",
+            "code": "求索动物",
+            "url": "http://192.168.2.1:1111/338.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/QSDW.png"
+        },
+        {
+            "title": "华数求索记录",
+            "code": "求索记录",
+            "url": "http://192.168.2.1:1111/339.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/QSJL.png"
+        },
+        {
+            "title": "CHC动作电影",
+            "code": "CHC动作电影",
+            "url": "http://192.168.2.1:1111/340.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg"
+        },
+        {
+            "title": "CHC家庭电影",
+            "code": "CHC家庭电影",
+            "url": "http://192.168.2.1:1111/341.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg"
+        },
+        {
+            "title": "中数梨园",
+            "code": "梨园",
+            "url": "http://192.168.2.1:1111/342.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg"
+        },
+        {
+            "title": "中数风云音乐",
+            "code": "风云音乐",
+            "url": "http://192.168.2.1:1111/343.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png"
+        },
+        {
+            "title": "中数第一剧场",
+            "code": "第一剧场",
+            "url": "http://192.168.2.1:1111/344.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png"
+        },
+        {
+            "title": "中数风云剧场",
+            "code": "风云剧场",
+            "url": "http://192.168.2.1:1111/345.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png"
+        },
+        {
+            "title": "中数世界地理",
+            "code": "世界地理",
+            "url": "http://192.168.2.1:1111/346.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png"
+        },
+        {
+            "title": "中数怀旧剧场",
+            "code": "怀旧剧场",
+            "url": "http://192.168.2.1:1111/347.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg"
+        },
+        {
+            "title": "中数兵器科技",
+            "code": "兵器科技",
+            "url": "http://192.168.2.1:1111/348.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg"
+        },
+        {
+            "title": "中数女性时尚",
+            "code": "女性时尚",
+            "url": "http://192.168.2.1:1111/349.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png"
+        },
+        {
+            "title": "中数CCTV-娱乐",
+            "code": "CCTV-娱乐",
+            "url": "http://192.168.2.1:1111/350.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/CCTV/CCTVyule.png"
+        },
+        {
+            "title": "中数CCTV-戏曲",
+            "code": "CCTV-戏曲",
+            "url": "http://192.168.2.1:1111/351.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/CCTV/CCTVxiqu.png"
+        },
+        {
+            "title": "中数高尔夫网球",
+            "code": "高尔夫网球",
+            "url": "http://192.168.2.1:1111/352.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg"
+        },
+        {
+            "title": "中数央视精品",
+            "code": "央视精品",
+            "url": "http://192.168.2.1:1111/353.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png"
+        },
+        {
+            "title": "中数彩民在线",
+            "code": "彩民在线",
+            "url": "http://192.168.2.1:1111/354.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/caiminzaixian.png"
+        },
+        {
+            "title": "中数汽摩",
+            "code": "汽摩",
+            "url": "http://192.168.2.1:1111/355.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE22.jpg"
+        },
+        {
+            "title": "中数留学世界",
+            "code": "留学世界",
+            "url": "http://192.168.2.1:1111/356.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE24.jpg"
+        },
+        {
+            "title": "中数青年学苑",
+            "code": "青年学苑",
+            "url": "http://192.168.2.1:1111/357.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE25.jpg"
+        },
+        {
+            "title": "中数摄影频道",
+            "code": "摄影频道",
+            "url": "http://192.168.2.1:1111/358.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/PHOTOGRAPHY-CHANNEL.jpg"
+        },
+        {
+            "title": "中数天元围棋",
+            "code": "天元围棋",
+            "url": "http://192.168.2.1:1111/359.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg"
+        },
+        {
+            "title": "中数现代女性",
+            "code": "现代女性",
+            "url": "http://192.168.2.1:1111/360.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE29.png"
+        },
+        {
+            "title": "中数早期教育",
+            "code": "早期教育",
+            "url": "http://192.168.2.1:1111/361.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg"
+        },
+        {
+            "title": "中数CCTV证券资讯",
+            "code": "证券资讯",
+            "url": "http://192.168.2.1:1111/362.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/CCTV/CCTVzhengquan.png"
+        },
+        {
+            "title": "中数CCTV央视台球",
+            "code": "央视台球",
+            "url": "http://192.168.2.1:1111/363.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png"
+        },
+        {
+            "title": "中数茶频道",
+            "code": "茶频道",
+            "url": "http://192.168.2.1:1111/364.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg"
+        },
+        {
+            "title": "中数武术世界",
+            "code": "武术世界",
+            "url": "http://192.168.2.1:1111/365.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/WUSHUSHIJIE.jpg"
+        },
+        {
+            "title": "中数发现之旅",
+            "code": "发现之旅",
+            "url": "http://192.168.2.1:1111/366.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/CCTV/CCTVfaxianzhilv.png"
+        },
+        {
+            "title": "中数环球奇观",
+            "code": "环球奇观",
+            "url": "http://192.168.2.1:1111/367.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/HUANQIUQIGUAN.jpg"
+        },
+        {
+            "title": "中数国学",
+            "code": "国学",
+            "url": "http://192.168.2.1:1111/368.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg"
+        },
+        {
+            "title": "中数文物宝库",
+            "code": "文物宝库",
+            "url": "http://192.168.2.1:1111/369.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg"
+        },
+        {
+            "title": "中数新科动漫",
+            "code": "新科动漫",
+            "url": "http://192.168.2.1:1111/370.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/CCTV/CCTVxinke.png"
+        },
+        {
+            "title": "中数幼儿教育",
+            "code": "幼儿教育",
+            "url": "http://192.168.2.1:1111/371.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/YOUERJIAOYU.jpg"
+        },
+        {
+            "title": "中数CCTV老故事",
+            "code": "老故事",
+            "url": "http://192.168.2.1:1111/372.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png"
+        },
+        {
+            "title": "中数快乐垂钓",
+            "code": "快乐垂钓",
+            "url": "http://192.168.2.1:1111/373.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg"
+        },
+        {
+            "title": "中数书画频道",
+            "code": "书画频道",
+            "url": "http://192.168.2.1:1111/374.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE37.jpg"
+        },
+        {
+            "title": "华诚先锋乒羽",
+            "code": "先锋乒羽",
+            "url": "http://192.168.2.1:1111/375.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/XFBY.png"
+        },
+        {
+            "title": "北广车迷频道",
+            "code": "车迷频道",
+            "url": "http://192.168.2.1:1111/376.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/BAMC1.jpg"
+        },
+        {
+            "title": "北广四海钓鱼",
+            "code": "四海钓鱼",
+            "url": "http://192.168.2.1:1111/377.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg"
+        },
+        {
+            "title": "北广环球旅游",
+            "code": "环球旅游",
+            "url": "http://192.168.2.1:1111/378.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/BAMC6.jpg"
+        },
+        {
+            "title": "北广京视剧场",
+            "code": "京视剧场",
+            "url": "http://192.168.2.1:1111/379.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/BAMC8.jpg"
+        },
+        {
+            "title": "北广弈坛春秋",
+            "code": "弈坛春秋",
+            "url": "http://192.168.2.1:1111/380.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/BAMC10.jpg"
+        },
+        {
+            "title": "北广央广健康",
+            "code": "央广健康",
+            "url": "http://192.168.2.1:1111/381.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/BAMC14.jpg"
+        },
+        {
+            "title": "北广时代家居",
+            "code": "时代家居",
+            "url": "http://192.168.2.1:1111/382.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/BAMC17.jpg"
+        },
+        {
+            "title": "北广时代出行",
+            "code": "时代出行",
+            "url": "http://192.168.2.1:1111/383.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/BAMC18.jpg"
+        },
+        {
+            "title": "北广时代风尚",
+            "code": "时代风尚",
+            "url": "http://192.168.2.1:1111/384.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/BAMC19.jpg"
+        },
+        {
+            "title": "北广财富天下",
+            "code": "财富天下",
+            "url": "http://192.168.2.1:1111/385.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/财富天下.png"
+        },
+        {
+            "title": "北广百姓健康",
+            "code": "百姓健康",
+            "url": "http://192.168.2.1:1111/386.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/CHTV.jpg"
+        },
+        {
+            "title": "华数精品剧场",
+            "code": "精品剧场",
+            "url": "http://192.168.2.1:1111/387.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/HSJPJC.jpg"
+        },
+        {
+            "title": "华数少儿动漫",
+            "code": "少儿动漫",
+            "url": "http://192.168.2.1:1111/388.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/HSSEDM.jpg"
+        },
+        {
+            "title": "华数欧美影院",
+            "code": "欧美影院",
+            "url": "http://192.168.2.1:1111/389.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/OMYY.jpg"
+        },
+        {
+            "title": "中国教育4台",
+            "code": "中国教育4台",
+            "url": "http://192.168.2.1:1111/465.ts",
+            "icon": "http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png"
+        }
+    ]
