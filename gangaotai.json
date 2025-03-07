@@ -2,499 +2,499 @@
         {
             "title": "翡翠台",
             "code": "翡翠台",
-            "url": "http://192.168.2.1:1111/75.ts",
+            "url": "翡翠台",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png"
         },
         {
             "title": "明珠台",
             "code": "明珠台",
-            "url": "http://192.168.2.1:1111/76.ts",
+            "url": "明珠台",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png"
         },
         {
             "title": "千禧經典台",
             "code": "TVB经典台",
-            "url": "http://192.168.2.1:1111/77.ts",
+            "url": "TVB经典台",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png"
         },
         {
             "title": "无线新闻台",
             "code": "无线新闻",
-            "url": "http://192.168.2.1:1111/78.ts",
+            "url": "无线新闻",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/wxxw.png"
         },
         {
             "title": "凤凰卫视中文台",
             "code": "凤凰中文",
-            "url": "http://192.168.2.1:1111/80.ts",
+            "url": "凤凰中文",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png"
         },
         {
             "title": "凤凰卫视资讯台",
             "code": "凤凰资讯",
-            "url": "http://192.168.2.1:1111/81.ts",
+            "url": "凤凰资讯",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png"
         },
         {
             "title": "凤凰卫视香港台",
             "code": "凤凰香港",
-            "url": "http://192.168.2.1:1111/82.ts",
+            "url": "凤凰香港",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png"
         },
         {
             "title": "阳光卫视",
             "code": "阳光卫视",
-            "url": "http://192.168.2.1:1111/83.ts",
+            "url": "阳光卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/yangguangweishi.png"
         },
         {
             "title": "美亚高清电影台(香港)",
             "code": "美亚高清电影台",
-            "url": "http://192.168.2.1:1111/84.ts",
+            "url": "美亚高清电影台",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png"
         },
         {
             "title": "NHK World TV",
             "code": "NHKWorld",
-            "url": "http://192.168.2.1:1111/85.ts",
+            "url": "NHKWorld",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png"
         },
         {
             "title": "Viu TV",
             "code": "ViuTV",
-            "url": "http://192.168.2.1:1111/86.ts",
+            "url": "ViuTV",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/viutv.png"
         },
         {
             "title": "香港卫视",
             "code": "HKS",
-            "url": "http://192.168.2.1:1111/87.ts",
+            "url": "HKS",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/hks.png"
         },
         {
             "title": "J2",
             "code": "J2",
-            "url": "http://192.168.2.1:1111/88.ts",
+            "url": "J2",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png"
         },
         {
             "title": "MEZZO LIVE HD",
             "code": "MEZZOLIVEHD",
-            "url": "http://192.168.2.1:1111/89.ts",
+            "url": "MEZZOLIVEHD",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/mezzo.png"
         },
         {
             "title": "Lifetime 娱乐频道",
             "code": "Lifetime",
-            "url": "http://192.168.2.1:1111/90.ts",
+            "url": "Lifetime",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/Lifetime.png"
         },
         {
             "title": "BBC HD",
             "code": "BBC",
-            "url": "http://192.168.2.1:1111/100.ts",
+            "url": "BBC",
             "icon": "http://pix1.tvzhe.com/images/logo/channel/BBC-HD/BBC-HD_140x140.png"
         },
         {
             "title": "CN卡通频道",
             "code": "CN卡通频道",
-            "url": "http://192.168.2.1:1111/101.ts",
+            "url": "CN卡通频道",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/CNCartoon.png"
         },
         {
             "title": "CNBC亚太财经",
             "code": "CNBCHongKong",
-            "url": "http://192.168.2.1:1111/102.ts",
+            "url": "CNBCHongKong",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/CNBC.png"
         },
         {
             "title": "法国时尚台",
             "code": "FashionTV",
-            "url": "http://192.168.2.1:1111/103.ts",
+            "url": "FashionTV",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png"
         },
         {
             "title": "FX HD",
             "code": "FXHD",
-            "url": "http://192.168.2.1:1111/104.ts",
+            "url": "FXHD",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/FXHD.png"
         },
         {
             "title": "DW德国之声(ENGLISH)",
             "code": "DW",
-            "url": "http://192.168.2.1:1111/105.ts",
+            "url": "DW",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/DW.png"
         },
         {
             "title": "法国TV5Monde",
             "code": "TV5Monde",
-            "url": "http://192.168.2.1:1111/106.ts",
+            "url": "TV5Monde",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/tv5monde.png"
         },
         {
             "title": "法国24台",
             "code": "france24",
-            "url": "http://192.168.2.1:1111/107.ts",
+            "url": "france24",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/france24.png"
         },
         {
             "title": "Sky News",
             "code": "SkyNews",
-            "url": "http://192.168.2.1:1111/108.ts",
+            "url": "SkyNews",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/SkyNews.png"
         },
         {
             "title": "天映经典频道",
             "code": "天映经典",
-            "url": "http://192.168.2.1:1111/109.ts",
+            "url": "天映经典",
             "icon": "https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv112_mobile.png"
         },
         {
             "title": "cinemaworld",
             "code": "cinemaworld",
-            "url": "http://192.168.2.1:1111/110.ts",
+            "url": "cinemaworld",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/cinemaworld.png"
         },
         {
             "title": "CGTN 纪录(英)",
             "code": "CGTNDocumentary",
-            "url": "http://192.168.2.1:1111/111.ts",
+            "url": "CGTNDocumentary",
             "icon": "http://epg.51zmt.top:8000/tb1/CCTV/CGTNDoc.png"
         },
         {
             "title": "Trace Sports",
             "code": "TraceSports",
-            "url": "http://192.168.2.1:1111/112.ts",
+            "url": "TraceSports",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/TRACESportStars.png"
         },
         {
             "title": "Outdoor Channel",
             "code": "Outdoor",
-            "url": "http://192.168.2.1:1111/113.ts",
+            "url": "Outdoor",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/outdoor.png"
         },
         {
             "title": "HITS",
             "code": "HITS",
-            "url": "http://192.168.2.1:1111/114.ts",
+            "url": "HITS",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/HITS.png"
         },
         {
             "title": "CNN国际新闻频道",
             "code": "CNN",
-            "url": "http://192.168.2.1:1111/199.ts",
+            "url": "CNN",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/CNNNews.png"
         },
         {
             "title": "探索发现频道",
             "code": "Discovery",
-            "url": "http://192.168.2.1:1111/210.ts",
+            "url": "Discovery",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png"
         },
         {
             "title": "TLC旅游生活频道",
             "code": "TLC旅游生活频道",
-            "url": "http://192.168.2.1:1111/211.ts",
+            "url": "TLC旅游生活频道",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/tlc.png"
         },
         {
             "title": "动物星球",
             "code": "动物星球",
-            "url": "http://192.168.2.1:1111/212.ts",
+            "url": "动物星球",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png"
         },
         {
             "title": "迪士尼频道",
             "code": "Disney",
-            "url": "http://192.168.2.1:1111/213.ts",
+            "url": "Disney",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/Disney.png"
         },
         {
             "title": "HBO",
             "code": "HBO",
-            "url": "http://192.168.2.1:1111/245.ts",
+            "url": "HBO",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/HBO.png"
         },
         {
             "title": "AXN",
             "code": "AXN",
-            "url": "http://192.168.2.1:1111/247.ts",
+            "url": "AXN",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/AXN.png"
         },
         {
             "title": "FOX MOVIES",
             "code": "FOXMOVIES",
-            "url": "http://192.168.2.1:1111/249.ts",
+            "url": "FOXMOVIES",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png"
         },
         {
             "title": "CINEMAX",
             "code": "CINEMAX",
-            "url": "http://192.168.2.1:1111/250.ts",
+            "url": "CINEMAX",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/CinemaxHD.png"
         },
         {
             "title": "FOX Sports",
             "code": "FOXSports",
-            "url": "http://192.168.2.1:1111/252.ts",
+            "url": "FOXSports",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/FOXSports.png"
         },
         {
             "title": "ELEVEN体育一台",
             "code": "ELEVEN体育一台",
-            "url": "http://192.168.2.1:1111/253.ts",
+            "url": "ELEVEN体育一台",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/ELEVENsports1.png"
         },
         {
             "title": "FOX",
             "code": "FOX",
-            "url": "http://192.168.2.1:1111/256.ts",
+            "url": "FOX",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/FOXHD.png"
         },
         {
             "title": "NHK",
             "code": "NHK",
-            "url": "http://192.168.2.1:1111/268.ts",
+            "url": "NHK",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/NHK.png"
         },
         {
             "title": "亚洲新闻台",
             "code": "ChannelNewsAsia",
-            "url": "http://192.168.2.1:1111/286.ts",
+            "url": "ChannelNewsAsia",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png"
         },
         {
             "title": "彭博财经台",
             "code": "BloombergTV",
-            "url": "http://192.168.2.1:1111/287.ts",
+            "url": "BloombergTV",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png"
         },
         {
             "title": "韩国阿里郎",
             "code": "ArirangTV",
-            "url": "http://192.168.2.1:1111/288.ts",
+            "url": "ArirangTV",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png"
         },
         {
             "title": "BBC Lifestyle(高清)",
             "code": "BBCLifestyle",
-            "url": "http://192.168.2.1:1111/293.ts",
+            "url": "BBCLifestyle",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/BBCLifestyle.png"
         },
         {
             "title": "梦工厂",
             "code": "DREAMWORKS",
-            "url": "http://192.168.2.1:1111/294.ts",
+            "url": "DREAMWORKS",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/dreamworks.png"
         },
         {
             "title": "Warner TV",
             "code": "WarnerTV",
-            "url": "http://192.168.2.1:1111/295.ts",
+            "url": "WarnerTV",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/WarnerTV.png"
         },
         {
             "title": "HBO HD",
             "code": "HBOHD",
-            "url": "http://192.168.2.1:1111/298.ts",
+            "url": "HBOHD",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/HBOHD.png"
         },
         {
             "title": "HBO 强档钜献",
             "code": "HBOHits",
-            "url": "http://192.168.2.1:1111/299.ts",
+            "url": "HBOHits",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/HBOHits.png"
         },
         {
             "title": "HBO 原创钜献",
             "code": "HBOSignature",
-            "url": "http://192.168.2.1:1111/300.ts",
+            "url": "HBOSignature",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png"
         },
         {
             "title": "HBO 温馨家庭",
             "code": "HBOFamily",
-            "url": "http://192.168.2.1:1111/301.ts",
+            "url": "HBOFamily",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/HBOFamily.png"
         },
         {
             "title": "BlueAnt综艺娱乐",
             "code": "BlueAntEntertainment",
-            "url": "http://192.168.2.1:1111/302.ts",
+            "url": "BlueAntEntertainment",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/BlueAntEntertainment.png"
         },
         {
             "title": "tvN",
             "code": "tvN",
-            "url": "http://192.168.2.1:1111/305.ts",
+            "url": "tvN",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/tvN.png"
         },
         {
             "title": "韩国娱乐台KMTV",
             "code": "韩国娱乐台KMTV",
-            "url": "http://192.168.2.1:1111/306.ts",
+            "url": "韩国娱乐台KMTV",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/KMTV.png"
         },
         {
             "title": "EVE",
             "code": "EVE",
-            "url": "http://192.168.2.1:1111/307.ts",
+            "url": "EVE",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/EVE.png"
         },
         {
             "title": "Discovery 科学频道",
             "code": "Discovery科学",
-            "url": "http://192.168.2.1:1111/308.ts",
+            "url": "Discovery科学",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/Discovery科学.png"
         },
         {
             "title": "Discovery Asia",
             "code": "DiscoveryAsia",
-            "url": "http://192.168.2.1:1111/309.ts",
+            "url": "DiscoveryAsia",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/Discovery-Asia.png"
         },
         {
             "title": "DMAX(高清)",
             "code": "DMAX",
-            "url": "http://192.168.2.1:1111/312.ts",
+            "url": "DMAX",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/DMAX.png"
         },
         {
             "title": "梅迪奇艺术",
             "code": "梅迪奇艺术",
-            "url": "http://192.168.2.1:1111/315.ts",
+            "url": "梅迪奇艺术",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/medici-arts.png"
         },
         {
             "title": "BlueAnt超极娱乐",
             "code": "BlueAntExtreme",
-            "url": "http://192.168.2.1:1111/324.ts",
+            "url": "BlueAntExtreme",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/BLUEAntExtreme.png"
         },
         {
             "title": "欧洲新闻",
             "code": "Euronews",
-            "url": "http://192.168.2.1:1111/325.ts",
+            "url": "Euronews",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/euronews.png"
         },
         {
             "title": "尼克儿童频道",
             "code": "Nickelodeon",
-            "url": "http://192.168.2.1:1111/326.ts",
+            "url": "Nickelodeon",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png"
         },
         {
             "title": "小尼克频道",
             "code": "NickJr.",
-            "url": "http://192.168.2.1:1111/327.ts",
+            "url": "NickJr.",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/NickJr.png"
         },
         {
             "title": "CBeebies",
             "code": "CBeebies",
-            "url": "http://192.168.2.1:1111/329.ts",
+            "url": "CBeebies",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/CBeebies.png"
         },
         {
             "title": "Boomerang",
             "code": "Boomerang",
-            "url": "http://192.168.2.1:1111/330.ts",
+            "url": "Boomerang",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/BOOMERANG.png"
         },
         {
             "title": "BBC Earth",
             "code": "BBCEarth",
-            "url": "http://192.168.2.1:1111/331.ts",
+            "url": "BBCEarth",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png"
         },
         {
             "title": "ABCAustralia",
             "code": "ABCAustralia",
-            "url": "http://192.168.2.1:1111/390.ts",
+            "url": "ABCAustralia",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/abcaus.png"
         },
         {
             "title": "NHKWorldPremium",
             "code": "NHKWorldPremium",
-            "url": "http://192.168.2.1:1111/391.ts",
+            "url": "NHKWorldPremium",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/nhkworldp.png"
         },
         {
             "title": "香港国际财经台",
             "code": "香港国际财经台",
-            "url": "http://192.168.2.1:1111/392.ts",
+            "url": "香港国际财经台",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png"
         },
         {
             "title": "香港开电视",
             "code": "香港开电视",
-            "url": "http://192.168.2.1:1111/393.ts",
+            "url": "香港开电视",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png"
         },
         {
             "title": "有线财经资讯台",
             "code": "有线财经资讯台",
-            "url": "http://192.168.2.1:1111/394.ts",
+            "url": "有线财经资讯台",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png"
         },
         {
             "title": "爱尔达娱乐台",
             "code": "爱尔达娱乐台",
-            "url": "http://192.168.2.1:1111/407.ts",
+            "url": "爱尔达娱乐台",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/ELTA_Ent.png"
         },
         {
             "title": "ELEVEN体育二台",
             "code": "ELEVEN体育二台",
-            "url": "http://192.168.2.1:1111/411.ts",
+            "url": "ELEVEN体育二台",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/elevensports2.png"
         },
         {
             "title": "History 历史频道",
             "code": "History",
-            "url": "http://192.168.2.1:1111/413.ts",
+            "url": "History",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png"
         },
         {
             "title": "SMART 知识频道",
             "code": "SMART知识频道",
-            "url": "http://192.168.2.1:1111/414.ts",
+            "url": "SMART知识频道",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/Smart知识台.png"
         },
         {
             "title": "AMC",
             "code": "AMC",
-            "url": "http://192.168.2.1:1111/418.ts",
+            "url": "AMC",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/AMC.png"
         },
         {
             "title": "半岛国际新闻台",
             "code": "aljazeera",
-            "url": "http://192.168.2.1:1111/427.ts",
+            "url": "aljazeera",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/aljazeera.png"
         },
         {
             "title": "EUROSPORT",
             "code": "EUROSPORT",
-            "url": "http://192.168.2.1:1111/452.ts",
+            "url": "EUROSPORT",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/eurosport.png"
         },
         {
             "title": "Animax",
             "code": "Animax",
-            "url": "http://192.168.2.1:1111/463.ts",
+            "url": "Animax",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/ANIMAX.png"
         },
         {
             "title": "香港有线603",
             "code": "香港603",
-            "url": "http://192.168.2.1:1111/464.ts",
+            "url": "香港603",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/hongkong603.png"
         },
         {
             "title": "GlobalTrekker(勇闯天涯)",
             "code": "globaltrekker",
-            "url": "http://192.168.2.1:1111/471.ts",
+            "url": "globaltrekker",
             "icon": "http://epg.51zmt.top:8000/tb1/gt/globaltrekker.png"
         }
     ]
