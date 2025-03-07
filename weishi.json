@@ -2,241 +2,241 @@
         {
             "title": "浙江卫视",
             "code": "浙江卫视",
-            "url": "http://192.168.2.1:1111/22.ts",
+            "url": "浙江卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/zhejiang.png"
         },
         {
             "title": "江苏卫视",
             "code": "江苏卫视",
-            "url": "http://192.168.2.1:1111/23.ts",
+            "url": "江苏卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/jiangsu.png"
         },
         {
             "title": "北京卫视",
             "code": "北京卫视",
-            "url": "http://192.168.2.1:1111/24.ts",
+            "url": "北京卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/beijing.png"
         },
         {
             "title": "东方卫视",
             "code": "东方卫视",
-            "url": "http://192.168.2.1:1111/25.ts",
+            "url": "东方卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/dongfang.png"
         },
         {
             "title": "安徽卫视",
             "code": "安徽卫视",
-            "url": "http://192.168.2.1:1111/26.ts",
+            "url": "安徽卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/anhui.png"
         },
         {
             "title": "广东卫视",
             "code": "广东卫视",
-            "url": "http://192.168.2.1:1111/27.ts",
+            "url": "广东卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/guangdong.png"
         },
         {
             "title": "深圳卫视",
             "code": "深圳卫视",
-            "url": "http://192.168.2.1:1111/28.ts",
+            "url": "深圳卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/shenzhen.png"
         },
         {
             "title": "辽宁卫视",
             "code": "辽宁卫视",
-            "url": "http://192.168.2.1:1111/29.ts",
+            "url": "辽宁卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/liaoning.png"
         },
         {
             "title": "海南卫视",
             "code": "旅游卫视",
-            "url": "http://192.168.2.1:1111/30.ts",
+            "url": "旅游卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/lvyou.png"
         },
         {
             "title": "山东卫视",
             "code": "山东卫视",
-            "url": "http://192.168.2.1:1111/31.ts",
+            "url": "山东卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/shandong.png"
         },
         {
             "title": "天津卫视",
             "code": "天津卫视",
-            "url": "http://192.168.2.1:1111/32.ts",
+            "url": "天津卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/tianjin.png"
         },
         {
             "title": "重庆卫视",
             "code": "重庆卫视",
-            "url": "http://192.168.2.1:1111/33.ts",
+            "url": "重庆卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/chongqing.png"
         },
         {
             "title": "东南卫视",
             "code": "东南卫视",
-            "url": "http://192.168.2.1:1111/34.ts",
+            "url": "东南卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/dongnan.png"
         },
         {
             "title": "甘肃卫视",
             "code": "甘肃卫视",
-            "url": "http://192.168.2.1:1111/35.ts",
+            "url": "甘肃卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/gansu.png"
         },
         {
             "title": "广西卫视",
             "code": "广西卫视",
-            "url": "http://192.168.2.1:1111/36.ts",
+            "url": "广西卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/guangxi.png"
         },
         {
             "title": "贵州卫视",
             "code": "贵州卫视",
-            "url": "http://192.168.2.1:1111/37.ts",
+            "url": "贵州卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/guizhou.png"
         },
         {
             "title": "河北卫视",
             "code": "河北卫视",
-            "url": "http://192.168.2.1:1111/38.ts",
+            "url": "河北卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/hebei.png"
         },
         {
             "title": "黑龙江卫视",
             "code": "黑龙江卫视",
-            "url": "http://192.168.2.1:1111/39.ts",
+            "url": "黑龙江卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png"
         },
         {
             "title": "河南卫视",
             "code": "河南卫视",
-            "url": "http://192.168.2.1:1111/40.ts",
+            "url": "河南卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/henan.png"
         },
         {
             "title": "湖北卫视",
             "code": "湖北卫视",
-            "url": "http://192.168.2.1:1111/41.ts",
+            "url": "湖北卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/hubei.png"
         },
         {
             "title": "江西卫视",
             "code": "江西卫视",
-            "url": "http://192.168.2.1:1111/42.ts",
+            "url": "江西卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/jiangxi.png"
         },
         {
             "title": "吉林卫视",
             "code": "吉林卫视",
-            "url": "http://192.168.2.1:1111/43.ts",
+            "url": "吉林卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/jilin.png"
         },
         {
             "title": "内蒙古卫视",
             "code": "内蒙古卫视",
-            "url": "http://192.168.2.1:1111/44.ts",
+            "url": "内蒙古卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/neimeng.png"
         },
         {
             "title": "宁夏卫视",
             "code": "宁夏卫视",
-            "url": "http://192.168.2.1:1111/45.ts",
+            "url": "宁夏卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/ningxia.png"
         },
         {
             "title": "山西卫视",
             "code": "山西卫视",
-            "url": "http://192.168.2.1:1111/46.ts",
+            "url": "山西卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/shanxi_.png"
         },
         {
             "title": "陕西卫视",
             "code": "陕西卫视",
-            "url": "http://192.168.2.1:1111/47.ts",
+            "url": "陕西卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/shanxi.png"
         },
         {
             "title": "四川卫视",
             "code": "四川卫视",
-            "url": "http://192.168.2.1:1111/48.ts",
+            "url": "四川卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/sichuan.png"
         },
         {
             "title": "新疆卫视",
             "code": "新疆卫视",
-            "url": "http://192.168.2.1:1111/49.ts",
+            "url": "新疆卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/xinjiang.png"
         },
         {
             "title": "云南卫视",
             "code": "云南卫视",
-            "url": "http://192.168.2.1:1111/50.ts",
+            "url": "云南卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/yunnan.png"
         },
         {
             "title": "青海卫视",
             "code": "青海卫视",
-            "url": "http://192.168.2.1:1111/51.ts",
+            "url": "青海卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/qinghai.png"
         },
         {
             "title": "兵团卫视",
             "code": "兵团卫视",
-            "url": "http://192.168.2.1:1111/52.ts",
+            "url": "兵团卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/bingtuan.png"
         },
         {
             "title": "哈哈炫动",
             "code": "哈哈炫动",
-            "url": "http://192.168.2.1:1111/53.ts",
+            "url": "哈哈炫动",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/xuandong.png"
         },
         {
             "title": "延边卫视",
             "code": "延边卫视",
-            "url": "http://192.168.2.1:1111/54.ts",
+            "url": "延边卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png"
         },
         {
             "title": "黄河卫视",
             "code": "黄河卫视",
-            "url": "http://192.168.2.1:1111/55.ts",
+            "url": "黄河卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/huanghe.png"
         },
         {
             "title": "卡酷动画",
             "code": "卡酷动画",
-            "url": "http://192.168.2.1:1111/56.ts",
+            "url": "卡酷动画",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/kaku.png"
         },
         {
             "title": "厦门卫视",
             "code": "厦门卫视",
-            "url": "http://192.168.2.1:1111/57.ts",
+            "url": "厦门卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/xiamen.png"
         },
         {
             "title": "金鹰卡通",
             "code": "金鹰卡通",
-            "url": "http://192.168.2.1:1111/58.ts",
+            "url": "金鹰卡通",
             "icon": "http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png"
         },
         {
             "title": "康巴卫视",
             "code": "康巴卫视",
-            "url": "http://192.168.2.1:1111/59.ts",
+            "url": "康巴卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/kangba.png"
         },
         {
             "title": "西藏卫视",
             "code": "西藏卫视",
-            "url": "http://192.168.2.1:1111/60.ts",
+            "url": "西藏卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/xizang.png"
         },
         {
             "title": "三沙卫视",
             "code": "三沙卫视",
-            "url": "http://192.168.2.1:1111/61.ts",
+            "url": "三沙卫视",
             "icon": "http://epg.51zmt.top:8000/tb1/ws/sansha.png"
         }
     ]
