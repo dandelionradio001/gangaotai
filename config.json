@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0.2",
+  "version": "1.0.0.3",
   "review": "0",
   "programs": [
     {
@@ -70,11 +70,11 @@
     "vplay.php"
   ],
   "admob": {
-    "open": 0,
-    "home": "ca-app-pub-5272462489798237/1626288928",
-    "interstitial": "ca-app-pub-5272462489798237/3395468493",
-    "reward": "ca-app-pub-5272462489798237/4136902198",
-    "openad": "ca-app-pub-5272462489798237/3945330507"
+    "open": 1,
+    "home": "ca-app-pub-5272462489798237/3700998901",
+    "interstitial": "ca-app-pub-5272462489798237/3441978606",
+    "reward": "ca-app-pub-5272462489798237/7148217499",
+    "openad": "ca-app-pub-5272462489798237/2128896934"
   },
   "buffering_timeout": 15,
   "player_user_agent": "VideoPlayer Lavf/57.83.100 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15",
