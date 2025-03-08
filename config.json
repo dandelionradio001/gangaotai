@@ -1,17 +1,16 @@
 {
-  "version": "1.0.0",
-  "review": "1",
-  "review_live_flag": "TEST",
+  "version": "1.0.0.2",
+  "review": "0",
   "programs": [
     {
       "title": "央视",
-      "url": "https://dandelionradio001.github.io/gangaotai/yangshi.json",
-      "format": "json"
+      "url": "https://player.ggiptv.com/iptv.php?tid=ys",
+      "format": "html"
     },
     {
       "title": "卫视",
-      "url": "https://dandelionradio001.github.io/gangaotai/weishi.json",
-      "format": "json"
+      "url": "https://player.ggiptv.com/iptv.php?tid=ws",
+      "format": "html"
     },
     {
       "title": "港澳台",
@@ -29,6 +28,40 @@
       "format": "html"
     }
   ],
+  "programs_review": [
+    {
+      "title": "央视",
+      "url": "https://dandelionradio001.github.io/gangaotai/yangshi.json",
+      "format": "json"
+    },
+    {
+      "title": "卫视",
+      "url": "https://dandelionradio001.github.io/gangaotai/weishi.json",
+      "format": "json"
+    },
+    {
+      "title": "港澳台及国外",
+      "url": "https://dandelionradio001.github.io/gangaotai/gangaotai.json",
+      "format": "json"
+    },
+    {
+      "title": "台湾",
+      "url": "https://dandelionradio001.github.io/gangaotai/taiwan.json",
+      "format": "json"
+    },
+    {
+      "title": "数字",
+      "url": "https://dandelionradio001.github.io/gangaotai/shuzi.json",
+      "format": "json"
+    },
+    {
+      "title": "地方",
+      "url": "https://dandelionradio001.github.io/gangaotai/difang.json",
+      "format": "json"
+    }
+  ],
+  "alarm_open": "0",
+  "rate_open": "1",
   "live_m3u8s": [
     ".m3u8",
     ".mp4",
@@ -36,15 +69,9 @@
     "bplayer.php",
     "vplay.php"
   ],
-  "rank_exclude_titles": [
-    "福利"
-  ],
   "admob": {
     "open": 0,
     "home": "ca-app-pub-5272462489798237/1626288928",
-    "filter": "ca-app-pub-5272462489798237/9428757328",
-    "tv": "ca-app-pub-5272462489798237/4008909686",
-    "detail": "ca-app-pub-5272462489798237/7924103967",
     "interstitial": "ca-app-pub-5272462489798237/3395468493",
     "reward": "ca-app-pub-5272462489798237/4136902198",
     "openad": "ca-app-pub-5272462489798237/3945330507"
@@ -69,18 +96,6 @@
   "programme_url": "https://player.ggiptv.com/iptv.php",
   "base_url": "https://player.ggiptv.com/",
   "ios_user_agent": "Mozilla/5.0 (Linux; Android 13; REA-AN00 Build/HONORREA-AN00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.72 MQQBrowser/6.2 TBS/046269 Mobile Safari/537.36 MicroMessengeriptv/1.4.7 VideoPlayer Html5Plus/1.0",
-  "include_channels": [
-    "央视",
-    "卫视",
-    "综合",
-    "港澳台",
-    "体育",
-    "咪咕视频"
-  ],
-  "excluded_channel_texts": [
-    "下载安装新版",
-    "极速港澳台"
-  ],
   "acceptLanguageHeader": "zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7",
   "reward_channels": [
     "港澳台"
@@ -90,6 +105,7 @@
     "爱尔达体育2台",
     "爱尔达体育3台"
   ],
+  "icon_url_prefix": "https://coldstone1900.github.io/tv/logos/",
   "channel_codes": {
     "CCTV1综合高清": "cctv1",
     "CCTV2财经高清": "cctv2",
