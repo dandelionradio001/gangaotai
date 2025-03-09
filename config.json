@@ -1,17 +1,7 @@
 {
-  "version": "1.0.0.5",
+  "version": "1.0.0.6",
   "review": "0",
   "programs": [
-    {
-      "title": "央视",
-      "url": "https://player.ggiptv.com/iptv.php?tid=ys",
-      "format": "html"
-    },
-    {
-      "title": "卫视",
-      "url": "https://player.ggiptv.com/iptv.php?tid=ws",
-      "format": "html"
-    },
     {
       "title": "港澳台",
       "url": "https://player.ggiptv.com/iptv.php?tid=gt",
@@ -25,6 +15,21 @@
     {
       "title": "台湾台",
       "url": "https://player.ggiptv.com/iptv.php?tid=litv",
+      "format": "html"
+    },
+    {
+      "title": "央视",
+      "url": "https://player.ggiptv.com/iptv.php?tid=ys",
+      "format": "html"
+    },
+    {
+      "title": "卫视",
+      "url": "https://player.ggiptv.com/iptv.php?tid=ws",
+      "format": "html"
+    },
+    {
+      "title": "体育",
+      "url": "https://player.ggiptv.com/iptv.php?tid=ty",
       "format": "html"
     }
   ],
