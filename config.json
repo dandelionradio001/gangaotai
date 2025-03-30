@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0.6",
+  "version": "1.0.0.7",
   "review": "0",
   "programs": [
     {
@@ -91,7 +91,7 @@
     "accept-language": "zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7",
     "cookie": "version=1.4.7;versions=1.4.7;model=REA-AN00;models=REA-AN00;"
   },
-  "replaced_js": "function vstPlay()",
+  "replaced_js": "window.dataLayer = window.dataLayer || [];",
   "find_js_from": "src:",
   "find_js_to": ",",
   "replaced_http_enabled": 1,
