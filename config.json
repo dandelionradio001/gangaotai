@@ -1,7 +1,12 @@
 {
-  "version": "1.0.0.9.2",
+  "version": "1.0.0.9.3",
   "review": "0",
   "programs": [
+    {
+      "title": "综合",
+      "url": "https://player.ggiptv.com/iptv.php?tid=tv",
+      "format": "html"
+    },
     {
       "title": "港澳台",
       "url": "https://player.ggiptv.com/iptv.php?tid=gt",
