@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0.9.3",
+  "version": "1.0.0.9.4",
   "review": "0",
   "programs": [
     {
-      "title": "综合",
+      "title": "综合台",
       "url": "https://player.ggiptv.com/iptv.php?tid=tv",
       "format": "html"
     },
