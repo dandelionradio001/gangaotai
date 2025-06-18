@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0.9.4",
+  "version": "2.0.0.0.1",
   "review": "0",
   "programs": [
     {
@@ -71,7 +71,7 @@
     }
   ],
   "alarm_open": "0",
-  "rate_open": "0",
+  "rate_open": "1",
   "live_m3u8s": [
     ".m3u8",
     ".mp4",
