@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0.0.1",
+  "version": "2.0.0.0.2",
   "review": "0",
   "programs": [
     {
@@ -80,7 +80,7 @@
     "vplay.php"
   ],
   "admob": {
-    "open": 1,
+    "open": 0,
     "home": "ca-app-pub-5272462489798237/3700998901",
     "interstitial": "ca-app-pub-5272462489798237/3441978606",
     "reward": "ca-app-pub-5272462489798237/7148217499",
