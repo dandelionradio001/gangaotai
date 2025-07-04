@@ -1,15 +1,15 @@
 {
-  "version": "2.0.0.0.2",
+  "version": "2.0.0.0.4",
   "review": "0",
   "programs": [
     {
-      "title": "综合台",
-      "url": "https://player.ggiptv.com/iptv.php?tid=tv",
+      "title": "港澳台",
+      "url": "https://player.ggiptv.com/iptv.php?tid=gt",
       "format": "html"
     },
     {
-      "title": "港澳台",
-      "url": "https://player.ggiptv.com/iptv.php?tid=gt",
+      "title": "综合台",
+      "url": "https://player.ggiptv.com/iptv.php?tid=tv",
       "format": "html"
     },
     {
