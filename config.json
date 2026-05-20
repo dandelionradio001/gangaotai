@@ -1,10 +1,15 @@
 {
-  "version": "2.0.0.0.9",
+  "version": "2.0.0.0.9.1",
   "review": "0",
   "programs": [
     {
       "title": "综合台",
       "url": "https://dandelionradio001.github.io/gangaotai/zhonghe.html",
+      "format": "html"
+    },
+    {
+      "title": "体育",
+      "url": "https://player.ggiptv.com/iptv.php?tid=ty",
       "format": "html"
     },
     {
@@ -15,11 +20,6 @@
     {
       "title": "卫视",
       "url": "https://player.ggiptv.com/iptv.php?tid=ws",
-      "format": "html"
-    },
-    {
-      "title": "体育",
-      "url": "https://player.ggiptv.com/iptv.php?tid=ty",
       "format": "html"
     }
   ],
