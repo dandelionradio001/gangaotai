@@ -1,15 +1,25 @@
 {
-  "version": "2.0.0.0.9.1",
+  "version": "2.0.0.1.6",
   "review": "0",
   "programs": [
     {
       "title": "综合台",
-      "url": "https://dandelionradio001.github.io/gangaotai/zhonghe.html",
+      "url": "https://player.ggiptv.com/iptv.php?tid=tv",
       "format": "html"
     },
     {
-      "title": "体育",
-      "url": "https://player.ggiptv.com/iptv.php?tid=ty",
+      "title": "港澳台",
+      "url": "https://player.ggiptv.com/iptv.php?tid=gt",
+      "format": "html"
+    },
+    {
+      "title": "极速港澳台",
+      "url": "https://player.ggiptv.com/iptv.php?tid=wintv123",
+      "format": "html"
+    },
+    {
+      "title": "台湾台",
+      "url": "https://player.ggiptv.com/iptv.php?tid=litv",
       "format": "html"
     },
     {
@@ -20,6 +30,11 @@
     {
       "title": "卫视",
       "url": "https://player.ggiptv.com/iptv.php?tid=ws",
+      "format": "html"
+    },
+    {
+      "title": "体育",
+      "url": "https://player.ggiptv.com/iptv.php?tid=ty",
       "format": "html"
     }
   ],
