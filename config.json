@@ -1,40 +1,30 @@
 {
-  "version": "2.3.0.0.0",
+  "version": "2.4.0.0.1",
   "review": "0",
   "programs": [
     {
       "title": "综合台",
-      "url": "https://player.ggiptv.com/iptv.php?tid=tv",
+      "url": "https://dandelionradio001.github.io/filmnavigator/zhonghe.html",
       "format": "html"
     },
     {
       "title": "港澳台",
-      "url": "https://player.ggiptv.com/iptv.php?tid=gt",
-      "format": "html"
-    },
-    {
-      "title": "极速港澳台",
-      "url": "https://player.ggiptv.com/iptv.php?tid=wintv123",
-      "format": "html"
-    },
-    {
-      "title": "台湾台",
-      "url": "https://player.ggiptv.com/iptv.php?tid=litv",
+      "url": "https://dandelionradio001.github.io/filmnavigator/wintv123.html",
       "format": "html"
     },
     {
       "title": "央视",
-      "url": "https://player.ggiptv.com/iptv.php?tid=ys",
+      "url": "https://dandelionradio001.github.io/filmnavigator/yangshi.html",
       "format": "html"
     },
     {
       "title": "卫视",
-      "url": "https://player.ggiptv.com/iptv.php?tid=ws",
+      "url": "https://dandelionradio001.github.io/filmnavigator/weishi.html",
       "format": "html"
     },
     {
       "title": "体育",
-      "url": "https://player.ggiptv.com/iptv.php?tid=ty",
+      "url": "https://dandelionradio001.github.io/filmnavigator/tiyu.html",
       "format": "html"
     }
   ],
