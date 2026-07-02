@@ -1,7 +1,7 @@
 {
-  "version": "2.4.0.0.3",
-  "review": "0",
-  "programs_review": [
+  "version": "2.4.0.0.4",
+  "review": "1",
+  "programs": [
     {
       "title": "综合台",
       "url": "https://dandelionradio001.github.io/filmnavigator/zhonghe.html",
@@ -28,7 +28,7 @@
       "format": "html"
     }
   ],
-  "programs": [
+  "programs_review": [
     {
       "title": "央视",
       "url": "https://dandelionradio001.github.io/gangaotai/yangshi.json",
