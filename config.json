@@ -1,5 +1,5 @@
 {
-  "version": "2.5.0.0.0",
+  "version": "2.5.0.0.1",
   "review": "0",
   "programs": [
     {
@@ -64,7 +64,6 @@
   "rate_open": "1",
   "live_m3u8s": [
     ".m3u8",
-    ".mp4",
     "play.php",
     "bplayer.php",
     "vplay.php"
